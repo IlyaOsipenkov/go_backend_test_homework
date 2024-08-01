@@ -4,6 +4,7 @@ import (
 	"fmt"
 )
 
+// cringe
 func Add(a, b int) int {
 	return a + b
 }
